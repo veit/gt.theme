@@ -74,13 +74,6 @@
       css:theme-children="#action-menu-content"
       />
 
-    <!-- BREADCRUMBS -->
-    <replace
-      css:content-children="div#portal-breadcrumbs"
-      css:theme-children="ol.breadcrumb"
-      />
-    <drop css:content="span#breadcrumbs-you-are-here" />
-
     <!-- EDIT BAR (CONTENT VIEWS) -->
     <replace
       css:content-children="#content-views"
